@@ -13,7 +13,18 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    
+    @IBAction func move_to_imageview(_ sender: UIButton) {
+        tabBarController?.selectedIndex = 1
+    }
+    
+    
+    @IBAction func move_to_datepicker(_ sender: UIButton) {
+        tabBarController?.selectedIndex = 2
+    }
+    
+    
+    
 }
 
