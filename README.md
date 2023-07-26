@@ -8,3 +8,4 @@
 
 # 실행 화면
 
+![ezgif com-video-to-gif (7)](https://github.com/taeyoonL/tab_bar_controller/assets/132141316/bafed3ba-2623-40af-9a8b-b57a5a9dbdd6)
